@@ -56,7 +56,7 @@ export default function Navbar() {
             <li className="nav-item">
               <a
                 className="px-3 py-2 flex items-center text-base uppercase font-bold text-gray-800 hover:text-gray-600"
-                href="My_Resume.pdf"
+                href="https://t-resume.4everland.store/卓企全的简历.pdf"
                 target="_blank"
               >
                 <span className="ml-2">📑 我的简历</span>
